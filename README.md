@@ -1,4 +1,4 @@
-# custom_alertdialog
+# Unicorn Dialer
 
 A new Flutter application.
 
